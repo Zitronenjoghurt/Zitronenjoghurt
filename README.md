@@ -1,7 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zitronenjoghurt&langs_count=20&layout=pie&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 # Highlighted Projects
-Here I will highlight some of my projects ordered my programming language or framework.
+Here I will highlight some of my projects ordered by programming language or framework.
 
 ## Rust
 ### [Lemon APOD Api](https://github.com/Zitronenjoghurt/lemon-apod-api) (WORK IN PROGRESS)
