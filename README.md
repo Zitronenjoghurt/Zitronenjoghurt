@@ -16,7 +16,7 @@ A tonic gRPC server which acts as a fast and optimized wrapper around NASA's APO
 ### [Pokedata API](https://github.com/Zitronenjoghurt/pokedata-api) (unfinished, but its planned to be finished in the near future)
 An axum API which extracts pokemon data from various sources, combines, enriches and in the end provides it in a full and compact way, optimized for local use.
 
-## [Magic Cube](https://github.com/Zitronenjoghurt/magic-cube) (unfinished, early stages and on hold)
+### [Magic Cube](https://github.com/Zitronenjoghurt/magic-cube) (unfinished, early stages and on hold)
 A library that aims to offer the logical side of a magic cube.
 
 ### [Last Colony](https://github.com/Zitronenjoghurt/LastColony) (unfinished, not functional)
