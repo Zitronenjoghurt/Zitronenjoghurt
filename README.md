@@ -4,14 +4,20 @@
 Here I will highlight some of my projects ordered by programming language or framework.
 
 ## Rust
-### [Lemon APOD Api](https://github.com/Zitronenjoghurt/lemon-apod-api) (WORK IN PROGRESS)
-A tonic gRPC server which acts as a fast and optimized wrapper around NASA's APOD API. My goal is to distribute it as a public docker image so it can be easily integrated in whatever project you need.
+### [LeMon - Monster Battle Library](https://github.com/Zitronenjoghurt/lemon-mbl) (WORK IN PROGRESS)
+A crate which contains game logic for simulated monster battles with the goals to offer a unique battle system and to be easily extendable with new content.
 
 ### [Lemon Chess](https://github.com/Zitronenjoghurt/lemon-chess) (finished)
 A chess API using a self-made chess engine. It supports match-making, rendering the current board and game history in 2 different styles.
 
+### [Lemon APOD Api](https://github.com/Zitronenjoghurt/lemon-apod-api) (on hold)
+A tonic gRPC server which acts as a fast and optimized wrapper around NASA's APOD API. My goal is to distribute it as a public docker image so it can be easily integrated in whatever project you need.
+
 ### [Pokedata API](https://github.com/Zitronenjoghurt/pokedata-api) (unfinished, but its planned to be finished in the near future)
 An axum API which extracts pokemon data from various sources, combines, enriches and in the end provides it in a full and compact way, optimized for local use.
+
+## [Magic Cube](https://github.com/Zitronenjoghurt/magic-cube) (unfinished, early stages and on hold)
+A library that aims to offer the logical side of a magic cube.
 
 ### [Last Colony](https://github.com/Zitronenjoghurt/LastColony) (unfinished, not functional)
 A 2D city builder game, using Rust for the game logic and Godot for rendering and UI.
