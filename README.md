@@ -4,7 +4,10 @@
 Here I will highlight some of my projects ordered by programming language or framework.
 
 ## Rust
-### [LeMon - Monster Battle Library](https://github.com/Zitronenjoghurt/lemon-mbl) (WORK IN PROGRESS)
+### [Turing Machine](https://github.com/Zitronenjoghurt/simple-turing-machine) (WORK IN PROGRESS)
+A turing machine with a compiler which I am currently trying to get to higher and higher levels of abstraction.
+
+### [LeMon - Monster Battle Library](https://github.com/Zitronenjoghurt/lemon-mbl) (on hold)
 A crate which contains game logic for simulated monster battles with the goals to offer a unique battle system and to be easily extendable with new content.
 
 ### [Lemon Chess](https://github.com/Zitronenjoghurt/lemon-chess) (finished)
@@ -15,6 +18,9 @@ A tonic gRPC server which acts as a fast and optimized wrapper around NASA's APO
 
 ### [Pokedata API](https://github.com/Zitronenjoghurt/pokedata-api) (unfinished, but its planned to be finished in the near future)
 An axum API which extracts pokemon data from various sources, combines, enriches and in the end provides it in a full and compact way, optimized for local use.
+
+### [World-Sim](https://github.com/Zitronenjoghurt/world-sim) (unfinished, just a prototype)
+Me trying out bevy's ECS for the first time, till I found its limits and got demotivated lol.
 
 ### [Magic Cube](https://github.com/Zitronenjoghurt/magic-cube) (unfinished, early stages and on hold)
 A library that aims to offer the logical side of a magic cube.
@@ -65,5 +71,8 @@ A web app which aims to display pokemon data in a nice way.
 ---
 
 ## Godot
+### [Tarot Solitaire](https://github.com/Zitronenjoghurt/tarot-solitaire) (WORK IN PROGRESS, 2nd priority though)
+What the name says more or less, solitaire with tarot cards (not going into the esoteric stuff though).
+
 ### [Lemon Farm](https://github.com/Zitronenjoghurt/LemonFarm) (unfinished)
 My first godot project. I was mostly trying out godot features, building simple farming mechanics.
