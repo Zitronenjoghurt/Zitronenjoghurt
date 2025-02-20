@@ -4,7 +4,16 @@
 Here I will highlight some of my projects ordered by programming language or framework.
 
 ## Rust
-### [Turing Machine](https://github.com/Zitronenjoghurt/simple-turing-machine) (WORK IN PROGRESS)
+### [Game Boy Emulator](https://github.com/Zitronenjoghurt/lemon-gb) (WORK IN PROGRESS)
+A game boy emulator, mainly meant as an educational project. Though I plan to actually make it play real games at some point.
+
+### [Fishing Library](https://github.com/Zitronenjoghurt/fish-lib) (WORK IN PROGRESS)
+A crate handling game and storage logic of a customizable fishing game tailored for low-input games (like for discord bots).
+
+### [Fishing Discord Bot](https://github.com/Zitronenjoghurt/fishing-harbor) (WORK IN PROGRESS)
+A discord bot using my fishing library to provide access to my fishing game.
+
+### [Turing Machine](https://github.com/Zitronenjoghurt/simple-turing-machine) (on hold)
 A turing machine with a compiler which I am currently trying to get to higher and higher levels of abstraction.
 
 ### [LeMon - Monster Battle Library](https://github.com/Zitronenjoghurt/lemon-mbl) (on hold)
