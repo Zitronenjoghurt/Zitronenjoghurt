@@ -1,8 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zitronenjoghurt&langs_count=20&layout=pie&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 # Favorite Projects
-Here I will highlight my favorite projects.
-
 ## Rust
 ### [Dungeon Breeder](https://github.com/Zitronenjoghurt/dungeon-breeder) (work in progress)
 An idle game powered by egui's immediate mode UI about funding your monster research by managing your own dungeon.
