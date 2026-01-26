@@ -2,7 +2,22 @@
 
 # Favorite Projects
 ## Rust
-### [Dungeon Breeder](https://github.com/Zitronenjoghurt/dungeon-breeder) (work in progress)
+### [ProcGen Space](https://github.com/Zitronenjoghurt/procgen-space) (work in progress)
+A library and application about procedurally generating objects in space and rendering them using wgpu.
+
+### [Ant Simulation](https://github.com/Zitronenjoghurt/lemon-antbox) (finished, but not feature-complete)
+A simulation of ants in a box. You can place nests, ants and food and watch the ants try to find food and carry it to their nest.
+
+### [Falling Sand Simulation](https://github.com/Zitronenjoghurt/lemon-sand) (finished, but not feature-complete)
+A falling sand simulation, planned to have more than just sand, but currently just got sand (and water, lol).
+
+### [Apodex](https://github.com/Zitronenjoghurt/apodex) (work in progress)
+A library and application for scraping/parsing/storing/archiving NASA Astronomy Picture of the Day.
+
+### [NeoBabu Bot](https://github.com/Zitronenjoghurt/neobabu) (work in progress)
+A successor of my python BabuBot discord bot, now in Rust, implementing some features I enjoy from time to time.
+
+### [Dungeon Breeder](https://github.com/Zitronenjoghurt/dungeon-breeder) (unfinished, but got a finished alpha version)
 An idle game powered by egui's immediate mode UI about funding your monster research by managing your own dungeon.
 
 ### [LMVC8](https://github.com/Zitronenjoghurt/LMVC8) (unfinished)
@@ -19,6 +34,9 @@ A rust chess library built for performance, handling the game logic and move gen
 
 ### [Star Generator](https://github.com/Zitronenjoghurt/star-gen) (finished, but not feature-complete)
 A program where you can explore random generated star clusters in 3D.
+
+### [Star Seeker](https://github.com/Zitronenjoghurt/skyseeker) (unfinished, but a nice foundation)
+A program to explore the actual night sky at a certain point in time and latitude/longitude. Unpolished, but the basic core is working.
 
 ### [Game Boy Emulator](https://github.com/Zitronenjoghurt/lemon-gb) (unfinished)
 A game boy emulator, mainly meant as an educational project.
