@@ -2,7 +2,13 @@
 
 # Favorite Projects
 ## Rust
-### [ProcGen Space](https://github.com/Zitronenjoghurt/procgen-space) (work in progress)
+### [Citrine GB](https://github.com/Zitronenjoghurt/citrine-gb) (work in progress)
+A library and application for emulating the original Game Boy and Game Boy Color. My 2nd try.
+
+### [Lemon PKMN](https://github.com/Zitronenjoghurt/lemon-pkmn) (work in progress)
+A library and tool for simulating Pokémon battles.
+
+### [ProcGen Space](https://github.com/Zitronenjoghurt/procgen-space) (on halt)
 A library and application about procedurally generating objects in space and rendering them using wgpu.
 
 ### [Ant Simulation](https://github.com/Zitronenjoghurt/lemon-antbox) (finished, but not feature-complete)
